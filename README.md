@@ -67,8 +67,8 @@ On Fear days, cap leverage at ≤5× OR move to flat/neutral positioning until s
 ## Files
 | File | Description |
 |------|-------------|
-| `analysis.ipynb` | Full notebook with code + charts |
-| `fig1_performance_by_sentiment.png` | PnL, win rate, drawdown by sentiment |
-| `fig2_behavior_by_sentiment.png` | Trade count, size, L/S ratio by sentiment |
+| `experiment.ipynb` | Full notebook with code + charts |
+| `fig1_performance.png` | PnL, win rate, drawdown by sentiment |
+| `fig2_behavior.png` | Trade count, size, L/S ratio by sentiment |
 | `fig3_segments.png` | Leverage & frequency segment analysis |
 | `fig4_timeseries.png` | Rolling PnL with sentiment backdrop |
